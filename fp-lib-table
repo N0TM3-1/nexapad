@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "temp")(type "KiCad")(uri "/home/dumitru/projects/nexapad")(options "")(descr ""))
+  (lib (name "CustomStuff")(type "KiCad")(uri "${KIPRJMOD}/CustomStuff.pretty")(options "")(descr ""))
+  (lib (name "RotaryEncoder")(type "KiCad")(uri "${KIPRJMOD}/Rotary_Encoder.pretty")(options "")(descr ""))
+)
